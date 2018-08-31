@@ -1,0 +1,16 @@
+// Add your native dependencies here:
+
+android {
+  defaultConfig {  
+    generatedDensities = []
+    multiDexEnabled true
+    applicationId = "za.co.craig.route65"
+  }
+  aaptOptions {  
+    additionalParameters "--no-version-vectors"  
+  }  
+
+  project.ext {
+    googlePlayServicesVersion = "15.0.0"
+  }
+} 

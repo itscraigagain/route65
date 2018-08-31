@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "27880169660",
+    "firebase_url": "https://route-65.firebaseio.com",
+    "project_id": "route-65",
+    "storage_bucket": "route-65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27880169660:android:6ab33b379e22bcc1",
+        "android_client_info": {
+          "package_name": "za.co.craig.route65"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27880169660-60frtntgqbupkskk0hn6dgc4utmlu1t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv5NJYyzU1DHEo-atNvQj4aZJm8GCf_6A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
