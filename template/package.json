@@ -12,7 +12,8 @@
     "tns-core-modules": "~4.2.0",
     "nativescript-plugin-firebase": "^6.5.0",
     "nativescript-ui-sidedrawer": "^4.3.0",
-    "nativescript-fonticon": "^1.1.1"
+    "nativescript-fonticon": "^1.1.1",
+    "nativescript-ui-listview": "^3.6.1"
   },
   "devDependencies": {
     "babel-traverse": "6.26.0",
